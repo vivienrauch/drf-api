@@ -65,7 +65,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 DEBUG = 'DEV' in os.environ
 
 ALLOWED_HOSTS = ['8000-vivienrauch-drfapi-nnkcy7eaibz.ws-eu101.gitpod.io', '8000-vivienrauch-drfapi-nnkcy7eaibz.ws-eu102.gitpod.io',
-                'localhost', 'drf-api-vmr.herokuapp.com']
+                'localhost', 'drf-api-vmr-c9fd534dbc4b.herokuapp.com']
 
 
 # Application definition
